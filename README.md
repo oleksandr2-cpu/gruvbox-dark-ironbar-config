@@ -5,7 +5,7 @@ download ironbar(if you dont have it)
 
 paru -S ironbar
 
-create a config directory:
+create a config directory(if you dont have it):
 
 mkdir -p /home/your username/.config/ironbar
 
