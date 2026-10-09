@@ -1,0 +1,18 @@
+{
+  position = "bottom"
+  height = 28
+
+  start = [
+    { type = "workspaces" }
+  ]
+
+  center = [
+    { type = "clock", format = "%H:%M:%S" }
+  ]
+
+  end = [
+    { type = "sys_tray" }
+    { type = "volume" }
+    { type = "battery" }
+  ]
+}
